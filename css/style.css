@@ -4,7 +4,7 @@ body {
     height:100%;
 }
 html { 
-    background: url(LandingStock.jpg) no-repeat center center fixed; 
+    background: url(/pictures/LandingStock.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
