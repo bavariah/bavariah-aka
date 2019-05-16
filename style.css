@@ -2,8 +2,12 @@ body {
     margin:0;
     display:block;
     height:100%;
-    background-image: url(LandingStock.jpg);
 }
-
-
-
+html { 
+    background: url(LandingStock.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
