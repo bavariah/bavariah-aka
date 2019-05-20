@@ -8,7 +8,6 @@ body {
 
 @media only screen and (max-width: 600px){
     .wrapper, #carouselExampleIndicators {
-        font-size:0.5em;
         padding:0;
         flex-direction: column;
     }
