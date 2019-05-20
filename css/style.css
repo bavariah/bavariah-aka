@@ -29,10 +29,19 @@ html {
     margin: 0 auto;
 }
 
-.footer {
-        background: #1a222c;
-        padding: 10px 0;
-        margin-top: 100px;
-        text-align: center;
-        color: #fff;
+.main-head .site-title {
+    font-size: 50px;
+    display: block;
+    line-height: 1;
+    color: #fff;
+}
+.main-head .site-description {
+    font-size: 20px;
+    display: block;
+    line-height: 1;
+    color: #fff;
+    margin-top: 10px;
+}
+div {
+    display: block;
 }
