@@ -12,8 +12,9 @@ html {
   }
   
   @media only screen and (max-width: 600px){
-    .main-nav {
+    body {
         font-size:0.5em;
         padding:0;
+        flex-direction: column;
     }
 }
